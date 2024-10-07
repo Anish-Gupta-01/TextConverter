@@ -43,8 +43,3 @@ Navbar.propTypes = {
   title: PropTypes.string.isRequired,
   AboutText: PropTypes.string.isRequired,
 };
-
-// Navbar.defaultProps = {
-//     tille: "Set title here",
-//     AboutText: "About"
-// }
